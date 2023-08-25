@@ -4,6 +4,8 @@
 
 <h1 align="center">PROYECTO INDIVIDUAL Nº2</h1>
 
+## Carlos Aneiro Pérez
+
 Proyecto de estudio, análisis y visualización de las principales criptomonedas del mercado
 
 <h2 align="center">Cryptocurrency Market Data Analytics</h2>
