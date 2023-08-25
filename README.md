@@ -43,7 +43,7 @@ El mercado de las criptomonedas es un mercado en constante evolución, con nuevo
 
 **Método** 
 
-Los datos se obtuvieron de un [EDA](https://github.com/aneirokratos/criptos/edit/main/README.md) de Python Notebook. El análisis se realizó utilizando las siguientes técnicas:
+Los datos se obtuvieron de un [EDA](https://github.com/aneirokratos/criptos/edit/main/EDA.ipynb) de Python Notebook. El análisis se realizó utilizando las siguientes técnicas:
 
 Revisión de datos: Se revisó la integridad de los datos para verificar que no hubiera errores o inconsistencias.
 Análisis exploratorio: Se realizaron visualizaciones y análisis estadísticos para explorar los datos y comprender sus tendencias.
