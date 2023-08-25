@@ -114,7 +114,7 @@ Los KPI se clasifican en dos tipos:
 | KPI | Tipo | Descripción |
 |---|---|---|
 | Retorno sobre la inversión | KPI de eficacia | Mide el beneficio obtenido de una inversión en una criptomoneda. |
-| tasa de crecimiento | KPI de eficacia | Indica si ha habido un crecimiento a lo largo del tiempo. |
+| Tasa de crecimiento | KPI de eficacia | Indica si ha habido un crecimiento a lo largo del tiempo. |
 
 **Análisis de la clasificación**
 
