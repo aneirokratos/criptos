@@ -73,9 +73,9 @@ Los resultados del análisis mostraron que las 10 criptomonedas más importantes
 | 9	| Avalanche (AVAX) |	$17,000 millones |	$2,2 mil millones	| Una plataforma de contratos inteligentes basada en la prueba de participación |
 | 10	| Solana (SOL) |	$16,500 millones |	$1,5 mil millones |	Una plataforma de contratos inteligentes basada en la prueba de participación |
 
-## Capturas de Pantalla
+## Gráfico de capitalización de las principales criptomonedas
 
-![Captura 1](C:/Users/Usuario/Documents/output.png)
+![Captura 1](https://github.com/aneirokratos/criptos/blob/main/output.png?raw=true)
 
 **Métricas y KPI**
 
